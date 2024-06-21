@@ -1,3 +1,3 @@
-module mygomodule
+module github.com/bghis/mygomodule
 
-go 1.18
+go 1.22.4
