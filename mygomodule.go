@@ -1,4 +1,4 @@
-package mainpackage
+package mygomodule
 
 import "fmt"
 
